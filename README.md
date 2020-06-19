@@ -1,4 +1,4 @@
-This project was done in collaboration with Prathamesh Kale
+This project was done in collaboration with Prathamesh Kale. Link to a demo video : https://www.youtube.com/watch?v=n5jQEb9fDHo&feature=youtu.be
 
 # Automatic Seed Planter
 
